@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "ビンクスの酒",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-25T12:28:36.188424Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ビンクスの酒",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_ビンクスの酒_Ado.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ビンクスの酒",
+      "artist": "9人の麦わらの一味(田中真弓・中井和哉・岡村明美・山口勝平・平田広明・大谷育江・山口由里子・矢尾一樹・チョー)",
+      "has_synced": false,
+      "path": "select/02_ビンクスの酒_9人の麦わらの一味(田中真弓・中井和哉・岡村明美・山口勝平・平田広明・大谷育江・山口由里子・矢尾一樹・チョー).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ビンクスの酒",
+      "artist": "9人の麦わらの一味",
+      "has_synced": false,
+      "path": "select/03_ビンクスの酒_9人の麦わらの一味.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Binks' Sake (ビンクスの酒)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/04_Binks'_Sake_(ビンクスの酒)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ビンクスの酒",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/05_ビンクスの酒_Ado.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ビンクスの酒 - BINKUSUNO SAKE",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/06_ビンクスの酒_-_BINKUSUNO_SAKE_Ado.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ビンクスの酒 - BINKUSUNO SAKE",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/07_ビンクスの酒_-_BINKUSUNO_SAKE_Ado.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ビンクスの酒",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/08_ビンクスの酒_Ado.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ビンクスの酒",
+      "artist": "麦わらの一味",
+      "has_synced": true,
+      "path": "select/09_ビンクスの酒_麦わらの一味.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ビンクスの酒（カラオケ）",
+      "artist": "麦わらの一味",
+      "has_synced": true,
+      "path": "select/10_ビンクスの酒(カラオケ)_麦わらの一味.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ビンクスの酒",
+      "artist": "麦わらの一味",
+      "has_synced": false,
+      "path": "select/11_ビンクスの酒_麦わらの一味.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ビンクスの酒",
+      "artist": "Ado - Topic",
+      "has_synced": true,
+      "path": "select/12_ビンクスの酒_Ado_-_Topic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ビンクスの酒",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_ビンクスの酒_Ado.txt"
+    }
+  ]
+}
